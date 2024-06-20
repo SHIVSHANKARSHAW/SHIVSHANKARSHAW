@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front End Web Dev  &  Content Writing.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with Work.<br>🌱 I’m currently learning about programming and JAVA.<br>💬 Ask me about Programming and Frontend Web Dev.<br>⚡ Fun fact - I'm time efficient and quite dedicated at my work.
+🔭 I’m currently working on MERN Stack Web Dev  &  Content Writing.<br>👯 I’m looking to collaborate on Open Source Projects.<br>🤝 I’m looking for help with Work.<br>🌱 I’m currently learning about programming and JAVA.<br>💬 Ask me about Programming and Web Dev.<br>⚡ Fun fact - I'm time efficient and quite dedicated at my work.
 
 
 ## 🌐 Socials:
